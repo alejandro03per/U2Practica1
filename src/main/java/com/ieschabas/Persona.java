@@ -128,8 +128,5 @@ public class Persona {
         return "Nobre " + this.nombre + "\nApellidos: " + this.apellidos + "\nEdad: " + this.edad + "\nDNI: " + this.dni + "\nTelefono: " + this.telefono;
 
 
-
-
-
     }
 }

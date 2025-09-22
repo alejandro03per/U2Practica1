@@ -30,5 +30,17 @@ public class Main {
         System.out.println(persona1.toString());
 
 
+        //Uso de la clase rectangulo
+        Rectangulo rectangulo1=new Rectangulo();
+        Rectangulo rectangulo2=new Rectangulo( 2.3,  2.5);
+
+        //Setear  la base y la altura del rectangulo1
+        rectangulo1.setBase(5.2);
+        rectangulo1.setAltura(6.2);
+
+        System.out.println("Area del rectangulo 1: " + rectangulo1.calcularArea());
+        System.out.println("Area del rectangulo 2: " + rectangulo2.calcularArea());
+
+
     }
 }
