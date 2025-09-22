@@ -46,7 +46,7 @@ public class Rectangulo {
     //Getters
 
     /**
-     * Método que devuelve la ase del rectangulo
+     * Método que devuelve la base del rectangulo
      * @return base
      */
     public double getBase(){
