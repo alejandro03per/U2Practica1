@@ -114,7 +114,7 @@ public class Persona {
     }
 
     /**
-     * Constructores sobrecargando de la clñase Persona, crea
+     * Constructores sobrecargando de la clase Persona, crea
      * @return
      */
 
@@ -125,7 +125,7 @@ public class Persona {
      * @return cadena con los valores de persona
      */
     public String toString (){
-        return "Nobre " + this.nombre + "\nApellidos: " + this.apellidos + "\nEdad: " + this.edad + "\nDNI: " + this.dni + "\nTelefono: " + this.telefono;
+        return "Nombre " + this.nombre + "\nApellidos: " + this.apellidos + "\nEdad: " + this.edad + "\nDNI: " + this.dni + "\nTelefono: " + this.telefono;
 
 
     }
